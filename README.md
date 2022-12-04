@@ -1,4 +1,8 @@
-# Nuxt 3 Minimal Starter
+# URL Shortener UI
+
+> A simple frontend for a URL shortener backend build with Nuxt 3 and Vuetify 3
+
+----
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 

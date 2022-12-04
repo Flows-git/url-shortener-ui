@@ -10,6 +10,7 @@
         ></v-avatar>
 
         <v-btn to="/">URL Shortener</v-btn>
+        <v-btn to="/find">Find URLs</v-btn>
       </v-container>
     </v-app-bar>
     <v-main>
